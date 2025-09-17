@@ -2,10 +2,10 @@
 # Direct API calls to OpenAI
 # API calls through LangChain: Prompts, Models, Output parsers
 
-#pip install python-dotenv
-#pip install openai
+# pip install python-dotenv
+# pip install openai
 
-import os
+import ose
 import openai
 
 from dotenv import load_dotenv, find_dotenv
