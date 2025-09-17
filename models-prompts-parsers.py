@@ -5,7 +5,7 @@
 # pip install python-dotenv
 # pip install openai
 
-import ose
+import os
 import openai
 
 from dotenv import load_dotenv, find_dotenv
